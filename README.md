@@ -1,1 +1,2 @@
 # odin-recipes
+This project is designed to practice building a basic yet informative html website. There will be a few pages linked together that contain headers, paragraphs and lists. Any user of this site should be able to follow along to a few different food recipes that will be explained.
