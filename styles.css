@@ -1,0 +1,20 @@
+body {
+    color: rgb(17, 16, 16);
+    background-color: rgb(225, 225, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p, ul, ol, a {
+    font-size: 20px;
+}
+
+h1, h2 {
+    background-color: rgb(132, 201, 233);
+    border:rgb(17, 16, 16);
+    border-radius: 2%;
+}
+
+img {
+    height: 650px;
+    width: auto;
+}
